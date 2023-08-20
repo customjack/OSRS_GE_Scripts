@@ -1,0 +1,38 @@
+TIMESTAMP: 22:43:38
+
+Blue:
+Input Quick Buy: 1928                   Input Slow Buy: 1925
+Output Quick Sell: 2062                 Output Slow Sell: 2068
+Weekly Input Min: 1.04555314534         Weekly Input Max: 0.964482241121
+Weekly Output Min: 1.01922129128        Weekly Output Max: 0.985231062411
+Profit/item Quick: 134                  Profit/item Slow: 143
+Profit/hr Quick: 227,800                Profit/hr Slow: 243,100
+
+
+Green:
+Input Quick Buy: 1570                   Input Slow Buy: 1561
+Output Quick Sell: 1657                 Output Slow Sell: 1659
+Weekly Input Min: 1.07903780069         Weekly Input Max: 0.983709273183
+Weekly Output Min: 1.03952321205        Weekly Output Max: 0.976428992339
+Profit/item Quick: 87                   Profit/item Slow: 98
+Profit/hr Quick: 147,900                Profit/hr Slow: 166,600
+
+
+Black:
+Input Quick Buy: 3172                   Input Slow Buy: 3152
+Output Quick Sell: 3234                 Output Slow Sell: 3249
+Weekly Input Min: 1.03513957307         Weekly Input Max: 0.973440395306
+Weekly Output Min: 1.04975767367        Weekly Output Max: 0.940920938315
+Profit/item Quick: 62                   Profit/item Slow: 97
+Profit/hr Quick: 105,400                Profit/hr Slow: 164,900
+
+
+Red:
+Input Quick Buy: 2627                   Input Slow Buy: 2513
+Output Quick Sell: 2647                 Output Slow Sell: 2669
+Weekly Input Min: 1.12025586354         Weekly Input Max: 0.952847297787
+Weekly Output Min: 1.03650485437        Weekly Output Max: 0.963885879379
+Profit/item Quick: 20                   Profit/item Slow: 156
+Profit/hr Quick: 34,000                 Profit/hr Slow: 265,200
+
+

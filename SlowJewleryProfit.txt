@@ -1,0 +1,29 @@
+TIMESTAMP: 22:43:38
+
+Skills Necklace:
+Input Quick Buy: 12661                  Input Slow Buy: 12614
+Output Quick Sell: 133868               Output Slow Sell: 133662
+Weekly Input Min: 1.02096605112         Weekly Input Max: 0.973997999846
+Weekly Output Min: 1.05197002659        Weekly Output Max: 0.539771787663
+Profit/item Quick: 121,207              Profit/item Slow: 121,048
+Profit/hr Quick: 206,051,900            Profit/hr Slow: 205,781,600
+
+
+Combat Bracelet:
+Input Quick Buy: 12397                  Input Slow Buy: 12301
+Output Quick Sell: 12661                Output Slow Sell: 12614
+Weekly Input Min: 1.00780424356         Weekly Input Max: 0.968591296195
+Weekly Output Min: 1.01373558989        Weekly Output Max: 0.589418140331
+Profit/item Quick: 264                  Profit/item Slow: 313
+Profit/hr Quick: 448,800                Profit/hr Slow: 532,100
+
+
+Amulet of Glory:
+Input Quick Buy: 12816                  Input Slow Buy: 12812
+Output Quick Sell: 12816                Output Slow Sell: 12812
+Weekly Input Min: 1.0400194821          Weekly Input Max: 0.949037037037
+Weekly Output Min: 1.08447433742        Weekly Output Max: 0.846341311004
+Profit/item Quick: 0                    Profit/item Slow: 0
+Profit/hr Quick: 0                      Profit/hr Slow: 0
+
+

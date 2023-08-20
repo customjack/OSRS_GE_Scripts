@@ -1,0 +1,502 @@
+TIMESTAMP: 22:43:38
+
+Green d'hide chaps:
+Margin: 160                              ROI: 0.0802005012531
+Selling: 2155                            Buying 1995
+Quantity Sold: 1732                      Quantity Bought: 71
+Buying Limit: unknown                    Expected Profit Per Hour: 3732460
+% Min (Week): 1.0                        % Min (Month): 1.03154084798
+% Max (Week): 0.870418848168             % Max (Month): 0.578260869565
+Weekly Volatility: 39.6767266453         Monthly Volatility: 113.266482655
+Trend: +8
+
+Runite bar:
+Margin: 2                                ROI: 0.00016020506248
+Selling: 12482                           Buying 12484
+Quantity Sold: 8947                      Quantity Bought: 7443
+Buying Limit: unknown                    Expected Profit Per Hour: 111676454
+% Min (Week): 1.00313378867              % Min (Month): 1.04810679204
+% Max (Week): 0.990872291452             % Max (Month): 0.956481765247
+Weekly Volatility: 20.0398670808         Monthly Volatility: 62.2053722308
+Trend: -2
+
+Grimy ranarr weed:
+Margin: 14                               ROI: 0.0020725388601
+Selling: 6769                            Buying 6755
+Quantity Sold: 2169                      Quantity Bought: 3106
+Buying Limit: 11000                      Expected Profit Per Hour: 14681961
+% Min (Week): 1.00446096654              % Min (Month): 1.03066829417
+% Max (Week): 0.978134955111             % Max (Month): 0.819781553398
+Weekly Volatility: 32.8444659664         Monthly Volatility: 516.385929498
+Trend: +1
+
+Air battlestaff:
+Margin: 3                                ROI: 0.000331748313613
+Selling: 9040                            Buying 9043
+Quantity Sold: 12497                     Quantity Bought: 27932
+Buying Limit: 14000                      Expected Profit Per Hour: 112972880
+% Min (Week): 1.00500111136              % Min (Month): 1.04737085939
+% Max (Week): 0.997133090749             % Max (Month): 0.984111437588
+Weekly Volatility: 11.6071257147         Monthly Volatility: 27.7671962665
+Trend: +2
+
+Onyx bolts (e):
+Margin: 3                                ROI: 0.000343249427918
+Selling: 8743                            Buying 8740
+Quantity Sold: 4566                      Quantity Bought: 5852
+Buying Limit: unknown                    Expected Profit Per Hour: 39920538
+% Min (Week): 1.00540664903              % Min (Month): 1.01663370943
+% Max (Week): 0.998628884826             % Max (Month): 0.979161998656
+Weekly Volatility: 11.4043843405         Monthly Volatility: 26.3944075772
+Trend: 0
+
+Prayer potion(4):
+Margin: 3                                ROI: 0.000343288705802
+Selling: 8736                            Buying 8739
+Quantity Sold: 5859                      Quantity Bought: 6524
+Buying Limit: unknown                    Expected Profit Per Hour: 51184224
+% Min (Week): 1.00552295478              % Min (Month): 1.04658682635
+% Max (Week): 0.978940293492             % Max (Month): 0.801228568809
+Weekly Volatility: 40.4187067905         Monthly Volatility: 801.82357295
+Trend: +15
+
+Ranarr weed:
+Margin: 6                                ROI: 0.000884694780301
+Selling: 6788                            Buying 6782
+Quantity Sold: 4131                      Quantity Bought: 1622
+Buying Limit: 11000                      Expected Profit Per Hour: 28041228
+% Min (Week): 1.00578377577              % Min (Month): 1.02478090057
+% Max (Week): 0.9726086333               % Max (Month): 0.818983214588
+Weekly Volatility: 34.0839505454         Monthly Volatility: 520.322733971
+Trend: 0
+
+Magic longbow:
+Margin: 1                                ROI: 0.000746825989544
+Selling: 1338                            Buying 1339
+Quantity Sold: 17146                     Quantity Bought: 8349
+Buying Limit: 18000                      Expected Profit Per Hour: 22941348
+% Min (Week): 1.00601051841              % Min (Month): 1.03317901235
+% Max (Week): 0.960545193687             % Max (Month): 0.890884896873
+Weekly Volatility: 7.99181560164         Monthly Volatility: 17.7909664475
+Trend: +1
+
+Onyx bolt tips:
+Margin: 6                                ROI: 0.000719683339331
+Selling: 8331                            Buying 8337
+Quantity Sold: 1754                      Quantity Bought: 1000
+Buying Limit: unknown                    Expected Profit Per Hour: 14612574
+% Min (Week): 1.00749244713              % Min (Month): 1.03603827513
+% Max (Week): 0.978750880488             % Max (Month): 0.929638715433
+Weekly Volatility: 43.9445292047         Monthly Volatility: 102.481291282
+Trend: 0
+
+Super combat potion(4):
+Margin: 35                               ROI: 0.00381388253242
+Selling: 9142                            Buying 9177
+Quantity Sold: 1313                      Quantity Bought: 1168
+Buying Limit: unknown                    Expected Profit Per Hour: 12003446
+% Min (Week): 1.01012658228              % Min (Month): 1.01012658228
+% Max (Week): 0.960138104206             % Max (Month): 0.595329224781
+Weekly Volatility: 113.739910483         Monthly Volatility: 1692.55423652
+Trend: +9
+
+Ranarr potion (unf):
+Margin: 5                                ROI: 0.000716743119266
+Selling: 6971                            Buying 6976
+Quantity Sold: 4343                      Quantity Bought: 2934
+Buying Limit: 10000                      Expected Profit Per Hour: 30275053
+% Min (Week): 1.01086799015              % Min (Month): 1.02603324018
+% Max (Week): 0.976757210865             % Max (Month): 0.816479400749
+Weekly Volatility: 49.6526746682         Monthly Volatility: 527.177447912
+Trend: -2
+
+Runite ore:
+Margin: 17                               ROI: 0.00148992112182
+Selling: 11393                           Buying 11410
+Quantity Sold: 4396                      Quantity Bought: 5489
+Buying Limit: 4500                       Expected Profit Per Hour: 50083628
+% Min (Week): 1.01098706362              % Min (Month): 1.10852035364
+% Max (Week): 0.993296770262             % Max (Month): 0.957054185539
+Weekly Volatility: 27.1231117272         Monthly Volatility: 172.223244575
+Trend: 0
+
+Adamantite bar:
+Margin: 4                                ROI: 0.00191662673694
+Selling: 2083                            Buying 2087
+Quantity Sold: 13202                     Quantity Bought: 31247
+Buying Limit: 10000                      Expected Profit Per Hour: 20830000
+% Min (Week): 1.01212415131              % Min (Month): 1.0435
+% Max (Week): 0.982580037665             % Max (Month): 0.895708154506
+Weekly Volatility: 10.4580375372         Monthly Volatility: 40.2083670835
+Trend: 0
+
+Diamond:
+Margin: 3                                ROI: 0.00149925037481
+Selling: 1998                            Buying 2001
+Quantity Sold: 855                       Quantity Bought: 4385
+Buying Limit: unknown                    Expected Profit Per Hour: 1708290
+% Min (Week): 1.01213960546              % Min (Month): 1.12605514913
+% Max (Week): 0.924249422633             % Max (Month): 0.924249422633
+Weekly Volatility: 22.2800912664         Monthly Volatility: 26.4778088036
+Trend: 0
+
+Earth battlestaff:
+Margin: 38                               ROI: 0.00418410041841
+Selling: 9044                            Buying 9082
+Quantity Sold: 207                       Quantity Bought: 3596
+Buying Limit: 14000                      Expected Profit Per Hour: 1872108
+% Min (Week): 1.01248606466              % Min (Month): 1.04969949145
+% Max (Week): 0.962484103434             % Max (Month): 0.36328
+Weekly Volatility: 46.0456098835         Monthly Volatility: 345.044459859
+Trend: -37
+
+Superior dragon bones:
+Margin: 76                               ROI: 0.00645270843946
+Selling: 11702                           Buying 11778
+Quantity Sold: 2508                      Quantity Bought: 68
+Buying Limit: unknown                    Expected Profit Per Hour: 29348616
+% Min (Week): 1.0128998968               % Min (Month): 1.1775644871
+% Max (Week): 0.963356780631             % Max (Month): 0.840985362371
+Weekly Volatility: 110.584222847         Monthly Volatility: 583.730053249
+Trend: 0
+
+Diamond bracelet:
+Margin: 0                                ROI: 0.0
+Selling: 2119                            Buying 2119
+Quantity Sold: 2085                      Quantity Bought: 2
+Buying Limit: unknown                    Expected Profit Per Hour: 4418115
+% Min (Week): 1.01339072214              % Min (Month): 1.11000523834
+% Max (Week): 0.2119                     % Max (Month): 0.2119
+Weekly Volatility: 633.495449935         Monthly Volatility: 270.303036435
+Trend: +10
+
+Ruby ring:
+Margin: 25                               ROI: 0.0243664717349
+Selling: 1051                            Buying 1026
+Quantity Sold: 55                        Quantity Bought: 1258
+Buying Limit: unknown                    Expected Profit Per Hour: 57805
+% Min (Week): 1.01383399209              % Min (Month): 1.11279826464
+% Max (Week): 0.911190053286             % Max (Month): 0.2565
+Weekly Volatility: 29.8305354539         Monthly Volatility: 113.19038026
+Trend: 0
+
+Snapdragon potion (unf):
+Margin: 10                               ROI: 0.0011956001913
+Selling: 8374                            Buying 8364
+Quantity Sold: 4804                      Quantity Bought: 201
+Buying Limit: 10000                      Expected Profit Per Hour: 40228696
+% Min (Week): 1.01677607586              % Min (Month): 1.04042791392
+% Max (Week): 0.975962660443             % Max (Month): 0.882185423479
+Weekly Volatility: 40.9988764473         Monthly Volatility: 285.816002961
+Trend: 0
+
+Blue dragon leather:
+Margin: 6                                ROI: 0.00290135396518
+Selling: 2062                            Buying 2068
+Quantity Sold: 7639                      Quantity Bought: 7
+Buying Limit: 13000                      Expected Profit Per Hour: 15751618
+% Min (Week): 1.01922129128              % Min (Month): 1.07261410788
+% Max (Week): 0.985231062411             % Max (Month): 0.693261816963
+Weekly Volatility: 13.1297475559         Monthly Volatility: 59.9123899037
+Trend: 0
+
+Bird nest:
+Margin: 1                                ROI: 0.000297885016384
+Selling: 3358                            Buying 3357
+Quantity Sold: 845                       Quantity Bought: 1827
+Buying Limit: unknown                    Expected Profit Per Hour: 2837510
+% Min (Week): 1.01974483597              % Min (Month): 1.75943396226
+% Max (Week): 0.901208053691             % Max (Month): 0.880871162425
+Weekly Volatility: 93.1582900004         Monthly Volatility: 613.178997889
+Trend: +2
+
+Super restore(4):
+Margin: 14                               ROI: 0.00144136723978
+Selling: 9699                            Buying 9713
+Quantity Sold: 4629                      Quantity Bought: 2646
+Buying Limit: unknown                    Expected Profit Per Hour: 44896671
+% Min (Week): 1.02252868723              % Min (Month): 1.05909933486
+% Max (Week): 0.959877458247             % Max (Month): 0.83280459573
+Weekly Volatility: 104.494723478         Monthly Volatility: 547.649139169
+Trend: -13
+
+Torstol:
+Margin: 4                                ROI: 0.000563539025077
+Selling: 7094                            Buying 7098
+Quantity Sold: 7517                      Quantity Bought: 301
+Buying Limit: 11000                      Expected Profit Per Hour: 53325598
+% Min (Week): 1.02306140098              % Min (Month): 2.31506849315
+% Max (Week): 0.954032258065             % Max (Month): 0.605115089514
+Weekly Volatility: 73.7297575865         Monthly Volatility: 1123.37194208
+Trend: 0
+
+Wyvern bones:
+Margin: 0                                ROI: 0.0
+Selling: 2205                            Buying 2205
+Quantity Sold: 3895                      Quantity Bought: 2215
+Buying Limit: 7500                       Expected Profit Per Hour: 8588475
+% Min (Week): 1.02797202797              % Min (Month): 1.03569751057
+% Max (Week): 0.919516263553             % Max (Month): 0.749235474006
+Weekly Volatility: 44.5680458303         Monthly Volatility: 146.015222359
+Trend: 0
+
+Red chinchompa:
+Margin: 10                               ROI: 0.0077399380805
+Selling: 1282                            Buying 1292
+Quantity Sold: 33891                     Quantity Bought: 27946
+Buying Limit: 7000                       Expected Profit Per Hour: 8974000
+% Min (Week): 1.02866242038              % Min (Month): 1.02866242038
+% Max (Week): 0.952100221076             % Max (Month): 0.751599767307
+Weekly Volatility: 18.0288901237         Monthly Volatility: 114.615895039
+Trend: -3
+
+Dragon knife:
+Margin: 120                              ROI: 0.0528401585205
+Selling: 2151                            Buying 2271
+Quantity Sold: 5910                      Quantity Bought: 2797
+Buying Limit: unknown                    Expected Profit Per Hour: 12712410
+% Min (Week): 1.02946509519              % Min (Month): 1.17729393468
+% Max (Week): 0.779608650875             % Max (Month): 0.779608650875
+Weekly Volatility: 70.2422437302         Monthly Volatility: 171.463806793
+Trend: -9
+
+Coconut:
+Margin: 5                                ROI: 0.00365764447696
+Selling: 1362                            Buying 1367
+Quantity Sold: 1580                      Quantity Bought: 151
+Buying Limit: unknown                    Expected Profit Per Hour: 2151960
+% Min (Week): 1.03014318011              % Min (Month): 4.98905109489
+% Max (Week): 0.822008418521             % Max (Month): 0.639981273408
+Weekly Volatility: 46.1699474165         Monthly Volatility: 295.14554875
+Trend: 0
+
+Black chinchompa:
+Margin: 0                                ROI: 0.0
+Selling: 3020                            Buying 3020
+Quantity Sold: 1995                      Quantity Bought: 102
+Buying Limit: 10000                      Expected Profit Per Hour: 6024900
+% Min (Week): 1.03071672355              % Min (Month): 1.04209799862
+% Max (Week): 0.9664                     % Max (Month): 0.769426751592
+Weekly Volatility: 31.9331340991         Monthly Volatility: 195.623361725
+Trend: +4
+
+Battlestaff:
+Margin: 11                               ROI: 0.00129123136518
+Selling: 8508                            Buying 8519
+Quantity Sold: 28282                     Quantity Bought: 22851
+Buying Limit: 11000                      Expected Profit Per Hour: 93588000
+% Min (Week): 1.03148080881              % Min (Month): 1.08994370522
+% Max (Week): 0.987939232286             % Max (Month): 0.979307966433
+Weekly Volatility: 78.5674491103         Monthly Volatility: 185.174036706
+Trend: -10
+
+Magic logs:
+Margin: 6                                ROI: 0.00528634361233
+Selling: 1129                            Buying 1135
+Quantity Sold: 37511                     Quantity Bought: 11509
+Buying Limit: 12000                      Expected Profit Per Hour: 13548000
+% Min (Week): 1.03181818182              % Min (Month): 1.13047808765
+% Max (Week): 0.97592433362              % Max (Month): 0.868400918133
+Weekly Volatility: 9.84421024365         Monthly Volatility: 40.6168281157
+Trend: 0
+
+Magic longbow (u):
+Margin: 4                                ROI: 0.00346620450607
+Selling: 1150                            Buying 1154
+Quantity Sold: 3212                      Quantity Bought: 10520
+Buying Limit: 10000                      Expected Profit Per Hour: 3693800
+% Min (Week): 1.03220035778              % Min (Month): 1.154
+% Max (Week): 0.958471760797             % Max (Month): 0.868975903614
+Weekly Volatility: 12.2116072034         Monthly Volatility: 47.9282612054
+Trend: -1
+
+Uncut diamond:
+Margin: 3                                ROI: 0.00104384133612
+Selling: 2871                            Buying 2874
+Quantity Sold: 2310                      Quantity Bought: 75
+Buying Limit: 10000                      Expected Profit Per Hour: 6632010
+% Min (Week): 1.033069734                % Min (Month): 1.19949916528
+% Max (Week): 0.958319439813             % Max (Month): 0.719399249061
+Weekly Volatility: 35.9808561162         Monthly Volatility: 151.953972957
+Trend: +27
+
+Gourmet impling jar:
+Margin: 17                               ROI: 0.0058864265928
+Selling: 2871                            Buying 2888
+Quantity Sold: 2366                      Quantity Bought: 73
+Buying Limit: unknown                    Expected Profit Per Hour: 6792786
+% Min (Week): 1.03327370304              % Min (Month): 1.38846153846
+% Max (Week): 0.635843240863             % Max (Month): 0.634725274725
+Weekly Volatility: 152.004537662         Monthly Volatility: 379.248668964
+Trend: 0
+
+Eclectic impling jar:
+Margin: 1                                ROI: 0.000278241513634
+Selling: 3593                            Buying 3594
+Quantity Sold: 6061                      Quantity Bought: 3662
+Buying Limit: unknown                    Expected Profit Per Hour: 21777173
+% Min (Week): 1.03424460432              % Min (Month): 1.15823396713
+% Max (Week): 0.971876690103             % Max (Month): 0.875091307524
+Weekly Volatility: 37.507252477          Monthly Volatility: 211.052348834
+Trend: -1
+
+Water orb:
+Margin: 12                               ROI: 0.00966183574879
+Selling: 1230                            Buying 1242
+Quantity Sold: 6053                      Quantity Bought: 150
+Buying Limit: unknown                    Expected Profit Per Hour: 7445190
+% Min (Week): 1.035                      % Min (Month): 1.56620428752
+% Max (Week): 0.802325581395             % Max (Month): 0.622556390977
+Weekly Volatility: 56.5016380276         Monthly Volatility: 153.443469571
+Trend: 0
+
+Black dragonhide:
+Margin: 20                               ROI: 0.00634517766497
+Selling: 3172                            Buying 3152
+Quantity Sold: 4547                      Quantity Bought: 1773
+Buying Limit: 10000                      Expected Profit Per Hour: 14423084
+% Min (Week): 1.03513957307              % Min (Month): 1.12410841655
+% Max (Week): 0.973440395306             % Max (Month): 0.948540475474
+Weekly Volatility: 33.2068315807         Monthly Volatility: 81.3078861036
+Trend: -100
+
+Black d'hide body:
+Margin: 386                              ROI: 0.0622279542157
+Selling: 5817                            Buying 6203
+Quantity Sold: 292                       Quantity Bought: 1340
+Buying Limit: unknown                    Expected Profit Per Hour: 1698564
+% Min (Week): 1.03642439432              % Min (Month): 1.03642439432
+% Max (Week): 0.771229640681             % Max (Month): 0.771229640681
+Weekly Volatility: 158.383303563         Monthly Volatility: 127.044212122
+Trend: -49
+
+Mahogany plank:
+Margin: 28                               ROI: 0.0140210315473
+Selling: 1969                            Buying 1997
+Quantity Sold: 22125                     Quantity Bought: 31687
+Buying Limit: 13000                      Expected Profit Per Hour: 25597000
+% Min (Week): 1.03848153926              % Min (Month): 1.03848153926
+% Max (Week): 0.966602129719             % Max (Month): 0.891120035698
+Weekly Volatility: 15.3115558404         Monthly Volatility: 44.5708390913
+Trend: -1
+
+Green dragon leather:
+Margin: 2                                ROI: 0.0012070006035
+Selling: 1659                            Buying 1657
+Quantity Sold: 27001                     Quantity Bought: 47880
+Buying Limit: unknown                    Expected Profit Per Hour: 0
+% Min (Week): 1.03952321205              % Min (Month): 1.04807084124
+% Max (Week): 0.976428992339             % Max (Month): 0.793202489229
+Weekly Volatility: 15.8955928694         Monthly Volatility: 53.1754296406
+Trend: 0
+
+Amulet of glory:
+Margin: 4                                ROI: 0.000312207305651
+Selling: 12816                           Buying 12812
+Quantity Sold: 512                       Quantity Bought: 3802
+Buying Limit: 10000                      Expected Profit Per Hour: 6561792
+% Min (Week): 1.0400194821               % Min (Month): 1.06891373269
+% Max (Week): 0.949037037037             % Max (Month): 0.949037037037
+Weekly Volatility: 162.334837902         Monthly Volatility: 211.118211867
+Trend: 0
+
+Dragon bones:
+Margin: 3                                ROI: 0.00133988387673
+Selling: 2242                            Buying 2239
+Quantity Sold: 37377                     Quantity Bought: 29861
+Buying Limit: 7500                       Expected Profit Per Hour: 16815000
+% Min (Week): 1.04528478058              % Min (Month): 1.04528478058
+% Max (Week): 0.984608619173             % Max (Month): 0.76468579235
+Weekly Volatility: 24.1197800038         Monthly Volatility: 141.851423036
+Trend: 0
+
+Anglerfish:
+Margin: 0                                ROI: 0.0
+Selling: 1383                            Buying 1383
+Quantity Sold: 7613                      Quantity Bought: 23492
+Buying Limit: unknown                    Expected Profit Per Hour: 10528779
+% Min (Week): 1.04535147392              % Min (Month): 1.06221198157
+% Max (Week): 0.954451345756             % Max (Month): 0.662991371045
+Weekly Volatility: 29.0289915911         Monthly Volatility: 145.981027266
+Trend: +1
+
+Blue dragonhide:
+Margin: 3                                ROI: 0.00155601659751
+Selling: 1925                            Buying 1928
+Quantity Sold: 4800                      Quantity Bought: 5117
+Buying Limit: 13000                      Expected Profit Per Hour: 9240000
+% Min (Week): 1.04555314534              % Min (Month): 1.19900497512
+% Max (Week): 0.964482241121             % Max (Month): 0.887661141805
+Weekly Volatility: 22.1670022217         Monthly Volatility: 55.4734187834
+Trend: +1
+
+Rune dart:
+Margin: 1                                ROI: 0.000894454382826
+Selling: 1117                            Buying 1118
+Quantity Sold: 44724                     Quantity Bought: 62125
+Buying Limit: 7000                       Expected Profit Per Hour: 7819000
+% Min (Week): 1.04583723106              % Min (Month): 1.09715407262
+% Max (Week): 0.818448023426             % Max (Month): 0.764705882353
+Weekly Volatility: 40.8327093807         Monthly Volatility: 61.3093062055
+Trend: -1
+
+Dragon bolts (unf):
+Margin: 1                                ROI: 0.000610873549175
+Selling: 1636                            Buying 1637
+Quantity Sold: 6941                      Quantity Bought: 13002
+Buying Limit: 10000                      Expected Profit Per Hour: 11355476
+% Min (Week): 1.04600638978              % Min (Month): 1.62562065541
+% Max (Week): 0.965781710914             % Max (Month): 0.962941176471
+Weekly Volatility: 21.5858487035         Monthly Volatility: 197.431189768
+Trend: 0
+
+Ranging potion(4):
+Margin: 52                               ROI: 0.042345276873
+Selling: 1176                            Buying 1228
+Quantity Sold: 783                       Quantity Bought: 2793
+Buying Limit: unknown                    Expected Profit Per Hour: 920808
+% Min (Week): 1.04688832055              % Min (Month): 1.04688832055
+% Max (Week): 0.843406593407             % Max (Month): 0.585877862595
+Weekly Volatility: 63.8103518915         Monthly Volatility: 263.928189796
+Trend: +4
+
+Stamina potion(4):
+Margin: 17                               ROI: 0.00344338667207
+Selling: 4920                            Buying 4937
+Quantity Sold: 4948                      Quantity Bought: 5541
+Buying Limit: unknown                    Expected Profit Per Hour: 24344160
+% Min (Week): 1.04819532909              % Min (Month): 1.08101598423
+% Max (Week): 0.950702869247             % Max (Month): 0.689332588662
+Weekly Volatility: 74.6439288794         Monthly Volatility: 765.356199174
+Trend: +1
+
+Dragon dart tip:
+Margin: 27                               ROI: 0.00828220858896
+Selling: 3287                            Buying 3260
+Quantity Sold: 14918                     Quantity Bought: 6147
+Buying Limit: unknown                    Expected Profit Per Hour: 49035466
+% Min (Week): 1.04823151125              % Min (Month): 1.06016260163
+% Max (Week): 0.965068087626             % Max (Month): 0.793573515093
+Weekly Volatility: 42.2380690759         Monthly Volatility: 161.537152676
+Trend: -2
+
+Ruby:
+Margin: 14                               ROI: 0.0137659783677
+Selling: 1003                            Buying 1017
+Quantity Sold: 2095                      Quantity Bought: 582
+Buying Limit: unknown                    Expected Profit Per Hour: 2101285
+% Min (Week): 1.04953560372              % Min (Month): 1.07961783439
+% Max (Week): 0.98833819242              % Max (Month): 0.900797165633
+Weekly Volatility: 8.87754293756         Monthly Volatility: 33.8277730076
+Trend: 0
+
+Avantoe:
+Margin: 0                                ROI: 0.0
+Selling: 1540                            Buying 1540
+Quantity Sold: 807                       Quantity Bought: 7600
+Buying Limit: 11000                      Expected Profit Per Hour: 1242780
+% Min (Week): 1.04976141786              % Min (Month): 1.11918604651
+% Max (Week): 0.919952210275             % Max (Month): 0.719290051378
+Weekly Volatility: 33.0636812513         Monthly Volatility: 114.133734434
+Trend: +1
+

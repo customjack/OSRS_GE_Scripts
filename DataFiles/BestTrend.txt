@@ -1,0 +1,502 @@
+TIMESTAMP: 21:51:51
+
+Red elegant legs:
+Margin: 36005                            ROI: 2.08894174983
+Selling: 53241                           Buying 17236
+Quantity Sold: 2                         Quantity Bought: 2
+Buying Limit: N/A                        Expected Profit Per Hour: N/A
+% Min (Week): 1.0                        % Min (Month): 1.0
+% Max (Week): 1.0                        % Max (Month): 1.0
+Weekly Volatility: 0.0                   Monthly Volatility: 0.0
+Trend: 0
+
+Empty fishbowl:
+Margin: 1                                ROI: 1.0
+Selling: 2                               Buying 1
+Quantity Sold: 208                       Quantity Bought: 109
+Buying Limit: N/A                        Expected Profit Per Hour: N/A
+% Min (Week): 1.0                        % Min (Month): 1.0
+% Max (Week): 1.0                        % Max (Month): 0.0588235294118
+Weekly Volatility: 0.0                   Monthly Volatility: 3.40734167999968
+Trend: 0
+
+Barrel:
+Margin: 49790                            ROI: 0.9958
+Selling: 210                             Buying 50000
+Quantity Sold: 2                         Quantity Bought: 2
+Buying Limit: N/A                        Expected Profit Per Hour: N/A
+% Min (Week): 1.0                        % Min (Month): 1.0
+% Max (Week): 1.0                        % Max (Month): 1.0
+Weekly Volatility: 0.0                   Monthly Volatility: 0.0
+Trend: 0
+
+Willow shield:
+Margin: 14                               ROI: 0.933333333333
+Selling: 1                               Buying 15
+Quantity Sold: 8                         Quantity Bought: 250
+Buying Limit: N/A                        Expected Profit Per Hour: N/A
+% Min (Week): 1.0                        % Min (Month): 1.07142857143
+% Max (Week): 1.0                        % Max (Month): 1.0
+Weekly Volatility: 0.0                   Monthly Volatility: 0.2763853991962833
+Trend: 0
+
+Granite (2kg):
+Margin: 492                              ROI: 0.928301886792
+Selling: 38                              Buying 530
+Quantity Sold: 3                         Quantity Bought: 2
+Buying Limit: N/A                        Expected Profit Per Hour: N/A
+% Min (Week): 1.0                        % Min (Month): 1.0
+% Max (Week): 1.0                        % Max (Month): 1.0
+Weekly Volatility: 0.0                   Monthly Volatility: 0.0
+Trend: 0
+
+Damaged monkey tail:
+Margin: 1698                             ROI: 0.890403775564
+Selling: 209                             Buying 1907
+Quantity Sold: 11                        Quantity Bought: 14
+Buying Limit: N/A                        Expected Profit Per Hour: N/A
+% Min (Week): 1.0                        % Min (Month): 1.0
+% Max (Week): 1.0                        % Max (Month): 1.0
+Weekly Volatility: 0.0                   Monthly Volatility: 0.0
+Trend: 0
+
+Gnome spice:
+Margin: 85                               ROI: 0.85
+Selling: 15                              Buying 100
+Quantity Sold: 1                         Quantity Bought: 2
+Buying Limit: N/A                        Expected Profit Per Hour: N/A
+% Min (Week): 1.0                        % Min (Month): 1.0
+% Max (Week): 1.0                        % Max (Month): 1.0
+Weekly Volatility: 0.0                   Monthly Volatility: 0.0
+Trend: 0
+
+Steel kiteshield (t):
+Margin: 26147                            ROI: 0.839363102308
+Selling: 5004                            Buying 31151
+Quantity Sold: 1                         Quantity Bought: 1
+Buying Limit: N/A                        Expected Profit Per Hour: N/A
+% Min (Week): 1.0                        % Min (Month): 1.0
+% Max (Week): 1.0                        % Max (Month): 1.0
+Weekly Volatility: 0.0                   Monthly Volatility: 0.0
+Trend: 0
+
+Mithril arrow(p+):
+Margin: 42                               ROI: 0.807692307692
+Selling: 10                              Buying 52
+Quantity Sold: 56                        Quantity Bought: 128
+Buying Limit: N/A                        Expected Profit Per Hour: N/A
+% Min (Week): 1.0                        % Min (Month): 1.0
+% Max (Week): 1.0                        % Max (Month): 1.0
+Weekly Volatility: 0.0                   Monthly Volatility: 0.0
+Trend: 0
+
+Turquoise robe bottoms:
+Margin: 360                              ROI: 0.782608695652
+Selling: 100                             Buying 460
+Quantity Sold: 1                         Quantity Bought: 1
+Buying Limit: N/A                        Expected Profit Per Hour: N/A
+% Min (Week): 1.0                        % Min (Month): 1.64285714286
+% Max (Week): 1.0                        % Max (Month): 1.0
+Weekly Volatility: 0.0                   Monthly Volatility: 43.57106264483344
+Trend: 0
+
+Granite (500g):
+Margin: 235                              ROI: 0.765472312704
+Selling: 72                              Buying 307
+Quantity Sold: 1                         Quantity Bought: 2
+Buying Limit: N/A                        Expected Profit Per Hour: N/A
+% Min (Week): 1.0                        % Min (Month): 1.0
+% Max (Week): 1.0                        % Max (Month): 1.0
+Weekly Volatility: 0.0                   Monthly Volatility: 0.0
+Trend: 0
+
+Security book:
+Margin: 74                               ROI: 0.74
+Selling: 26                              Buying 100
+Quantity Sold: 2                         Quantity Bought: 1
+Buying Limit: N/A                        Expected Profit Per Hour: N/A
+% Min (Week): 1.0                        % Min (Month): 1.0
+% Max (Week): 1.0                        % Max (Month): 1.0
+Weekly Volatility: 0.0                   Monthly Volatility: 0.0
+Trend: 0
+
+Agility potion(1):
+Margin: 68                               ROI: 0.571428571429
+Selling: 51                              Buying 119
+Quantity Sold: 2                         Quantity Bought: 1999
+Buying Limit: N/A                        Expected Profit Per Hour: N/A
+% Min (Week): 1.0                        % Min (Month): 1.0
+% Max (Week): 1.0                        % Max (Month): 1.0
+Weekly Volatility: 0.0                   Monthly Volatility: 0.0
+Trend: 0
+
+Grey wolf fur:
+Margin: 55                               ROI: 0.555555555556
+Selling: 44                              Buying 99
+Quantity Sold: 75                        Quantity Bought: 10
+Buying Limit: N/A                        Expected Profit Per Hour: N/A
+% Min (Week): 1.0                        % Min (Month): 1.0
+% Max (Week): 1.0                        % Max (Month): 1.0
+Weekly Volatility: 0.0                   Monthly Volatility: 0.0
+Trend: 0
+
+Mithril platelegs (t):
+Margin: 4187                             ROI: 0.544685833225
+Selling: 3500                            Buying 7687
+Quantity Sold: 1                         Quantity Bought: 1
+Buying Limit: N/A                        Expected Profit Per Hour: N/A
+% Min (Week): 1.0                        % Min (Month): 1.0
+% Max (Week): 1.0                        % Max (Month): 1.0
+Weekly Volatility: 0.0                   Monthly Volatility: 0.0
+Trend: 0
+
+Raw sea turtle:
+Margin: 445                              ROI: 0.526627218935
+Selling: 400                             Buying 845
+Quantity Sold: 2                         Quantity Bought: 6000
+Buying Limit: N/A                        Expected Profit Per Hour: N/A
+% Min (Week): 1.0                        % Min (Month): 1.0
+% Max (Week): 1.0                        % Max (Month): 1.0
+Weekly Volatility: 0.0                   Monthly Volatility: 0.0
+Trend: 0
+
+Cream boots:
+Margin: 136                              ROI: 0.507462686567
+Selling: 132                             Buying 268
+Quantity Sold: 1                         Quantity Bought: 30
+Buying Limit: N/A                        Expected Profit Per Hour: N/A
+% Min (Week): 1.0                        % Min (Month): 1.0
+% Max (Week): 1.0                        % Max (Month): 1.0
+Weekly Volatility: 0.0                   Monthly Volatility: 0.0
+Trend: 0
+
+Basket:
+Margin: 1                                ROI: 0.5
+Selling: 1                               Buying 2
+Quantity Sold: 1060                      Quantity Bought: 31
+Buying Limit: N/A                        Expected Profit Per Hour: N/A
+% Min (Week): 1.0                        % Min (Month): 1.0
+% Max (Week): 1.0                        % Max (Month): 1.0
+Weekly Volatility: 0.0                   Monthly Volatility: 0.0
+Trend: 0
+
+Empty sack:
+Margin: 1                                ROI: 0.5
+Selling: 1                               Buying 2
+Quantity Sold: 1050                      Quantity Bought: 69
+Buying Limit: N/A                        Expected Profit Per Hour: N/A
+% Min (Week): 1.0                        % Min (Month): 1.0
+% Max (Week): 1.0                        % Max (Month): 1.0
+Weekly Volatility: 0.0                   Monthly Volatility: 0.0
+Trend: 0
+
+Raw slimy eel:
+Margin: 442                              ROI: 0.497187851519
+Selling: 447                             Buying 889
+Quantity Sold: 122                       Quantity Bought: 1
+Buying Limit: N/A                        Expected Profit Per Hour: N/A
+% Min (Week): 1.0                        % Min (Month): 1.0
+% Max (Week): 1.0                        % Max (Month): 1.0
+Weekly Volatility: 0.0                   Monthly Volatility: 0.0
+Trend: 0
+
+Black desert shirt:
+Margin: 817                              ROI: 0.495151515152
+Selling: 833                             Buying 1650
+Quantity Sold: 1                         Quantity Bought: 1
+Buying Limit: N/A                        Expected Profit Per Hour: N/A
+% Min (Week): 1.0                        % Min (Month): 1.59728944821
+% Max (Week): 1.0                        % Max (Month): 1.0
+Weekly Volatility: 0.0                   Monthly Volatility: 246.79999999999998
+Trend: 0
+
+Nature tiara:
+Margin: 117                              ROI: 0.491596638655
+Selling: 121                             Buying 238
+Quantity Sold: 1                         Quantity Bought: 2
+Buying Limit: N/A                        Expected Profit Per Hour: N/A
+% Min (Week): 1.0                        % Min (Month): 1.0
+% Max (Week): 1.0                        % Max (Month): 1.0
+Weekly Volatility: 0.0                   Monthly Volatility: 0.0
+Trend: 0
+
+Mummy's feet:
+Margin: 116991                           ROI: 0.471745512024
+Selling: 131005                          Buying 247996
+Quantity Sold: 1                         Quantity Bought: 1
+Buying Limit: N/A                        Expected Profit Per Hour: N/A
+% Min (Week): 1.0                        % Min (Month): 1.0
+% Max (Week): 1.0                        % Max (Month): 1.0
+Weekly Volatility: 0.0                   Monthly Volatility: 0.0
+Trend: 0
+
+Bread dough:
+Margin: 138                              ROI: 0.46
+Selling: 162                             Buying 300
+Quantity Sold: 5                         Quantity Bought: 2
+Buying Limit: N/A                        Expected Profit Per Hour: N/A
+% Min (Week): 1.0                        % Min (Month): 1.0
+% Max (Week): 1.0                        % Max (Month): 1.0
+Weekly Volatility: 0.0                   Monthly Volatility: 0.0
+Trend: 0
+
+Bronze chainbody:
+Margin: 4                                ROI: 0.444444444444
+Selling: 5                               Buying 9
+Quantity Sold: 35                        Quantity Bought: 1
+Buying Limit: N/A                        Expected Profit Per Hour: N/A
+% Min (Week): 1.0                        % Min (Month): 1.0
+% Max (Week): 1.0                        % Max (Month): 0.09
+Weekly Volatility: 0.0                   Monthly Volatility: 36.4
+Trend: 0
+
+Mithril boots:
+Margin: 550                              ROI: 0.44
+Selling: 700                             Buying 1250
+Quantity Sold: 3                         Quantity Bought: 1
+Buying Limit: N/A                        Expected Profit Per Hour: N/A
+% Min (Week): 1.0                        % Min (Month): 1.4450867052
+% Max (Week): 1.0                        % Max (Month): 1.0
+Weekly Volatility: 0.0                   Monthly Volatility: 102.59070167907966
+Trend: 0
+
+Guthix crozier:
+Margin: 4385                             ROI: 0.4385
+Selling: 5615                            Buying 10000
+Quantity Sold: 1                         Quantity Bought: 1
+Buying Limit: N/A                        Expected Profit Per Hour: N/A
+% Min (Week): 1.0                        % Min (Month): 1.0
+% Max (Week): 1.0                        % Max (Month): 1.0
+Weekly Volatility: 0.0                   Monthly Volatility: 0.0
+Trend: 0
+
+Shorts:
+Margin: 634                              ROI: 0.427511800405
+Selling: 849                             Buying 1483
+Quantity Sold: 2                         Quantity Bought: 2
+Buying Limit: N/A                        Expected Profit Per Hour: N/A
+% Min (Week): 1.0                        % Min (Month): 1.0
+% Max (Week): 1.0                        % Max (Month): 1.0
+Weekly Volatility: 0.0                   Monthly Volatility: 0.0
+Trend: 0
+
+Team-27 cape:
+Margin: 283                              ROI: 0.424924924925
+Selling: 383                             Buying 666
+Quantity Sold: 3                         Quantity Bought: 1
+Buying Limit: N/A                        Expected Profit Per Hour: N/A
+% Min (Week): 1.0                        % Min (Month): 1.332
+% Max (Week): 1.0                        % Max (Month): 1.0
+Weekly Volatility: 0.0                   Monthly Volatility: 45.879976266583036
+Trend: 0
+
+Red d'hide body (g):
+Margin: 4262                             ROI: 0.411310557807
+Selling: 6100                            Buying 10362
+Quantity Sold: 1                         Quantity Bought: 1
+Buying Limit: N/A                        Expected Profit Per Hour: N/A
+% Min (Week): 1.0                        % Min (Month): 1.0
+% Max (Week): 1.0                        % Max (Month): 0.49050887574
+Weekly Volatility: 0.0                   Monthly Volatility: 3228.8999999999996
+Trend: 0
+
+Initiate harness m:
+Margin: 7623                             ROI: 0.404983265154
+Selling: 11200                           Buying 18823
+Quantity Sold: 2                         Quantity Bought: 6
+Buying Limit: N/A                        Expected Profit Per Hour: N/A
+% Min (Week): 1.0                        % Min (Month): 1.0
+% Max (Week): 1.0                        % Max (Month): 1.0
+Weekly Volatility: 0.0                   Monthly Volatility: 0.0
+Trend: 0
+
+Superantipoison(1):
+Margin: 129                              ROI: 0.380530973451
+Selling: 210                             Buying 339
+Quantity Sold: 1                         Quantity Bought: 12
+Buying Limit: N/A                        Expected Profit Per Hour: N/A
+% Min (Week): 1.0                        % Min (Month): 1.0
+% Max (Week): 1.0                        % Max (Month): 1.0
+Weekly Volatility: 0.0                   Monthly Volatility: 0.0
+Trend: 0
+
+Team-50 cape:
+Margin: 62                               ROI: 0.362573099415
+Selling: 109                             Buying 171
+Quantity Sold: 5                         Quantity Bought: 4
+Buying Limit: N/A                        Expected Profit Per Hour: N/A
+% Min (Week): 1.0                        % Min (Month): 1.0
+% Max (Week): 1.0                        % Max (Month): 0.228
+Weekly Volatility: 0.0                   Monthly Volatility: 160.02714613464804
+Trend: 0
+
+Ensouled bloodveld head:
+Margin: 1326                             ROI: 0.360130363933
+Selling: 2356                            Buying 3682
+Quantity Sold: 261                       Quantity Bought: 232
+Buying Limit: N/A                        Expected Profit Per Hour: N/A
+% Min (Week): 1.0                        % Min (Month): 1.0
+% Max (Week): 1.0                        % Max (Month): 0.916148295596
+Weekly Volatility: 0.0                   Monthly Volatility: 168.5
+Trend: 0
+
+Granite (5kg):
+Margin: 358                              ROI: 0.358
+Selling: 642                             Buying 1000
+Quantity Sold: 6                         Quantity Bought: 1
+Buying Limit: N/A                        Expected Profit Per Hour: N/A
+% Min (Week): 1.0                        % Min (Month): 1.0
+% Max (Week): 1.0                        % Max (Month): 0.332889480692
+Weekly Volatility: 0.0                   Monthly Volatility: 801.6
+Trend: 0
+
+Iron dagger:
+Margin: 1                                ROI: 0.333333333333
+Selling: 2                               Buying 3
+Quantity Sold: 46                        Quantity Bought: 1
+Buying Limit: N/A                        Expected Profit Per Hour: N/A
+% Min (Week): 1.0                        % Min (Month): 1.0
+% Max (Week): 1.0                        % Max (Month): 1.0
+Weekly Volatility: 0.0                   Monthly Volatility: 0.0
+Trend: 0
+
+Attack potion(4):
+Margin: 1                                ROI: 0.333333333333
+Selling: 2                               Buying 3
+Quantity Sold: 1851                      Quantity Bought: 18
+Buying Limit: N/A                        Expected Profit Per Hour: N/A
+% Min (Week): 1.0                        % Min (Month): 1.5
+% Max (Week): 1.0                        % Max (Month): 1.0
+Weekly Volatility: 0.0                   Monthly Volatility: 0.21295885499997994
+Trend: 0
+
+Splitbark boots:
+Margin: 4995                             ROI: 0.333
+Selling: 10005                           Buying 15000
+Quantity Sold: 1                         Quantity Bought: 1
+Buying Limit: N/A                        Expected Profit Per Hour: N/A
+% Min (Week): 1.0                        % Min (Month): 2.5
+% Max (Week): 1.0                        % Max (Month): 1.0
+Weekly Volatility: 0.0                   Monthly Volatility: 3897.114317029974
+Trend: 0
+
+Strawberry:
+Margin: 74                               ROI: 0.330357142857
+Selling: 150                             Buying 224
+Quantity Sold: 584                       Quantity Bought: 2475
+Buying Limit: N/A                        Expected Profit Per Hour: N/A
+% Min (Week): 1.0                        % Min (Month): 1.69696969697
+% Max (Week): 1.0                        % Max (Month): 1.0
+Weekly Volatility: 0.0                   Monthly Volatility: 21.647058823529413
+Trend: 0
+
+Pest control teleport:
+Margin: 182                              ROI: 0.303333333333
+Selling: 418                             Buying 600
+Quantity Sold: 68                        Quantity Bought: 1
+Buying Limit: N/A                        Expected Profit Per Hour: N/A
+% Min (Week): 1.0                        % Min (Month): 1.14503816794
+% Max (Week): 1.0                        % Max (Month): 1.0
+Weekly Volatility: 0.0                   Monthly Volatility: 16.184872979998477
+Trend: 0
+
+Elemental talisman:
+Margin: 2417                             ROI: 0.302125
+Selling: 5583                            Buying 8000
+Quantity Sold: 1                         Quantity Bought: 1
+Buying Limit: N/A                        Expected Profit Per Hour: N/A
+% Min (Week): 1.0                        % Min (Month): 1.0
+% Max (Week): 1.0                        % Max (Month): 1.0
+Weekly Volatility: 0.0                   Monthly Volatility: 0.0
+Trend: 0
+
+Mithril platebody (g):
+Margin: 7250                             ROI: 0.302083333333
+Selling: 16750                           Buying 24000
+Quantity Sold: 2                         Quantity Bought: 8
+Buying Limit: N/A                        Expected Profit Per Hour: N/A
+% Min (Week): 1.0                        % Min (Month): 1.0
+% Max (Week): 1.0                        % Max (Month): 1.0
+Weekly Volatility: 0.0                   Monthly Volatility: 0.0
+Trend: 0
+
+Team-26 cape:
+Margin: 26                               ROI: 0.288888888889
+Selling: 64                              Buying 90
+Quantity Sold: 11                        Quantity Bought: 1
+Buying Limit: N/A                        Expected Profit Per Hour: N/A
+% Min (Week): 1.0                        % Min (Month): 1.38461538462
+% Max (Week): 1.0                        % Max (Month): 1.0
+Weekly Volatility: 0.0                   Monthly Volatility: 12.5
+Trend: 0
+
+Elemental shield:
+Margin: 579                              ROI: 0.263181818182
+Selling: 1621                            Buying 2200
+Quantity Sold: 1                         Quantity Bought: 3
+Buying Limit: N/A                        Expected Profit Per Hour: N/A
+% Min (Week): 1.0                        % Min (Month): 1.88356164384
+% Max (Week): 1.0                        % Max (Month): 1.0
+Weekly Volatility: 0.0                   Monthly Volatility: 219.77353835997934
+Trend: 0
+
+White boots:
+Margin: 556                              ROI: 0.263132986275
+Selling: 1557                            Buying 2113
+Quantity Sold: 1                         Quantity Bought: 1
+Buying Limit: N/A                        Expected Profit Per Hour: N/A
+% Min (Week): 1.0                        % Min (Month): 1.0
+% Max (Week): 1.0                        % Max (Month): 1.0
+Weekly Volatility: 0.0                   Monthly Volatility: 0.0
+Trend: 0
+
+Orange flowers:
+Margin: 1                                ROI: 0.25
+Selling: 3                               Buying 4
+Quantity Sold: 264                       Quantity Bought: 149
+Buying Limit: N/A                        Expected Profit Per Hour: N/A
+% Min (Week): 1.0                        % Min (Month): 1.0
+% Max (Week): 1.0                        % Max (Month): 1.0
+Weekly Volatility: 0.0                   Monthly Volatility: 0.0
+Trend: 0
+
+Eye of newt:
+Margin: 1                                ROI: 0.25
+Selling: 3                               Buying 4
+Quantity Sold: 3348                      Quantity Bought: 6411
+Buying Limit: N/A                        Expected Profit Per Hour: N/A
+% Min (Week): 1.0                        % Min (Month): 1.33333333333
+% Max (Week): 1.0                        % Max (Month): 1.0
+Weekly Volatility: 0.0                   Monthly Volatility: 0.21295885499997994
+Trend: 0
+
+Mind rune:
+Margin: 1                                ROI: 0.25
+Selling: 3                               Buying 4
+Quantity Sold: 221605                    Quantity Bought: 281031
+Buying Limit: N/A                        Expected Profit Per Hour: N/A
+% Min (Week): 1.0                        % Min (Month): 1.0
+% Max (Week): 1.0                        % Max (Month): 1.0
+Weekly Volatility: 0.0                   Monthly Volatility: 0.0
+Trend: 0
+
+Numulite:
+Margin: 4                                ROI: 0.222222222222
+Selling: 14                              Buying 18
+Quantity Sold: 905                       Quantity Bought: 1000
+Buying Limit: N/A                        Expected Profit Per Hour: N/A
+% Min (Week): 1.0                        % Min (Month): 1.5
+% Max (Week): 1.0                        % Max (Month): 1.0
+Weekly Volatility: 0.0                   Monthly Volatility: 2.4
+Trend: 0
+
+Pot:
+Margin: 1                                ROI: 0.2
+Selling: 4                               Buying 5
+Quantity Sold: 32                        Quantity Bought: 192
+Buying Limit: N/A                        Expected Profit Per Hour: N/A
+% Min (Week): 1.0                        % Min (Month): 1.0
+% Max (Week): 1.0                        % Max (Month): 0.833333333333
+Weekly Volatility: 0.0                   Monthly Volatility: 0.21295885499997994
+Trend: 0
+

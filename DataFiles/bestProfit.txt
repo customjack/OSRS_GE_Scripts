@@ -1,0 +1,502 @@
+TIMESTAMP: 21:51:51
+
+Bastion potion(3):
+Margin: 0                                ROI: 0
+Selling: 3613                            Buying 0
+Quantity Sold: 4                         Quantity Bought: 0
+Buying Limit: N/A                        Expected Profit Per Hour: N/A
+% Min (Week): 100                        % Min (Month): 0.0
+% Max (Week): 0                          % Max (Month): 0.0
+Weekly Volatility: 0                     Monthly Volatility: 0.0
+Trend: 0
+
+Dragon bitter(m):
+Margin: 0                                ROI: 0
+Selling: 0                               Buying 0
+Quantity Sold: 0                         Quantity Bought: 0
+Buying Limit: N/A                        Expected Profit Per Hour: N/A
+% Min (Week): 100                        % Min (Month): 100
+% Max (Week): 0                          % Max (Month): 0
+Weekly Volatility: 0                     Monthly Volatility: 0
+Trend: 0
+
+Grape seed:
+Margin: 0                                ROI: 0
+Selling: 0                               Buying 0
+Quantity Sold: 0                         Quantity Bought: 0
+Buying Limit: N/A                        Expected Profit Per Hour: N/A
+% Min (Week): 100                        % Min (Month): 100
+% Max (Week): 0                          % Max (Month): 0
+Weekly Volatility: 0                     Monthly Volatility: 0
+Trend: 0
+
+Bronze hasta(p+):
+Margin: 0                                ROI: 0
+Selling: 0                               Buying 0
+Quantity Sold: 0                         Quantity Bought: 0
+Buying Limit: N/A                        Expected Profit Per Hour: N/A
+% Min (Week): 100                        % Min (Month): 100
+% Max (Week): 0                          % Max (Month): 0
+Weekly Volatility: 0                     Monthly Volatility: 0
+Trend: 0
+
+Bronze hasta(p++):
+Margin: 0                                ROI: 0
+Selling: 0                               Buying 0
+Quantity Sold: 0                         Quantity Bought: 0
+Buying Limit: N/A                        Expected Profit Per Hour: N/A
+% Min (Week): 100                        % Min (Month): 100
+% Max (Week): 0                          % Max (Month): 0
+Weekly Volatility: 0                     Monthly Volatility: 0
+Trend: 0
+
+Iron hasta(p):
+Margin: 0                                ROI: 0
+Selling: 0                               Buying 0
+Quantity Sold: 0                         Quantity Bought: 0
+Buying Limit: N/A                        Expected Profit Per Hour: N/A
+% Min (Week): 100                        % Min (Month): 100
+% Max (Week): 0                          % Max (Month): 0
+Weekly Volatility: 0                     Monthly Volatility: 0
+Trend: 0
+
+Iron hasta(p+):
+Margin: 0                                ROI: 0
+Selling: 0                               Buying 0
+Quantity Sold: 0                         Quantity Bought: 0
+Buying Limit: N/A                        Expected Profit Per Hour: N/A
+% Min (Week): 100                        % Min (Month): 100
+% Max (Week): 0                          % Max (Month): 0
+Weekly Volatility: 0                     Monthly Volatility: 0
+Trend: 0
+
+Wooden cat:
+Margin: 0                                ROI: 0
+Selling: 0                               Buying 0
+Quantity Sold: 0                         Quantity Bought: 0
+Buying Limit: N/A                        Expected Profit Per Hour: N/A
+% Min (Week): 100                        % Min (Month): 100
+% Max (Week): 0                          % Max (Month): 0
+Weekly Volatility: 0                     Monthly Volatility: 0
+Trend: 0
+
+Watermelon slice:
+Margin: 0                                ROI: 0
+Selling: 0                               Buying 0
+Quantity Sold: 0                         Quantity Bought: 0
+Buying Limit: N/A                        Expected Profit Per Hour: N/A
+% Min (Week): 100                        % Min (Month): 100
+% Max (Week): 0                          % Max (Month): 0
+Weekly Volatility: 0                     Monthly Volatility: 0
+Trend: 0
+
+Raw herring:
+Margin: 0                                ROI: 0.0
+Selling: 31                              Buying 31
+Quantity Sold: 2128                      Quantity Bought: 300
+Buying Limit: N/A                        Expected Profit Per Hour: N/A
+% Min (Week): 1.0                        % Min (Month): 1.0
+% Max (Week): 0.939393939394             % Max (Month): 0.885714285714
+Weekly Volatility: 0.7058823529411765    Monthly Volatility: 0.9428090415820634
+Trend: -1
+
+Magic shield:
+Margin: 0                                ROI: 0
+Selling: 520                             Buying 0
+Quantity Sold: 1                         Quantity Bought: 0
+Buying Limit: N/A                        Expected Profit Per Hour: N/A
+% Min (Week): 0.0                        % Min (Month): 0.0
+% Max (Week): 0.0                        % Max (Month): 0.0
+Weekly Volatility: 0.9938079899999065    Monthly Volatility: 81.03881785909762
+Trend: -2
+
+Herring:
+Margin: 0                                ROI: 0
+Selling: 7                               Buying 0
+Quantity Sold: 108                       Quantity Bought: 0
+Buying Limit: N/A                        Expected Profit Per Hour: N/A
+% Min (Week): 0.0                        % Min (Month): 0.0
+% Max (Week): 0.0                        % Max (Month): 0.0
+Weekly Volatility: 0.0                   Monthly Volatility: 0.628539361054709
+Trend: 0
+
+Redwood shield:
+Margin: 0                                ROI: 0.0
+Selling: 0                               Buying 383
+Quantity Sold: 0                         Quantity Bought: 375
+Buying Limit: N/A                        Expected Profit Per Hour: N/A
+% Min (Week): 1.22364217252              % Min (Month): 1.22364217252
+% Max (Week): 1.00789473684              % Max (Month): 1.00789473684
+Weekly Volatility: 31.064197639726668    Monthly Volatility: 31.064197639726668
+Trend: -67
+
+Hard leather shield:
+Margin: 0                                ROI: 0
+Selling: 0                               Buying 0
+Quantity Sold: 0                         Quantity Bought: 0
+Buying Limit: N/A                        Expected Profit Per Hour: N/A
+% Min (Week): 100                        % Min (Month): 100
+% Max (Week): 0                          % Max (Month): 0
+Weekly Volatility: 0                     Monthly Volatility: 0
+Trend: 0
+
+Ancient wyvern shield:
+Margin: 0                                ROI: 0
+Selling: 0                               Buying 0
+Quantity Sold: 0                         Quantity Bought: 0
+Buying Limit: N/A                        Expected Profit Per Hour: N/A
+% Min (Week): 100                        % Min (Month): 0.0
+% Max (Week): 0                          % Max (Month): 0.0
+Weekly Volatility: 0                     Monthly Volatility: 0.0
+Trend: 0
+
+Villager robe:
+Margin: 0                                ROI: 0
+Selling: 0                               Buying 0
+Quantity Sold: 0                         Quantity Bought: 0
+Buying Limit: N/A                        Expected Profit Per Hour: N/A
+% Min (Week): 100                        % Min (Month): 100
+% Max (Week): 0                          % Max (Month): 0
+Weekly Volatility: 0                     Monthly Volatility: 0
+Trend: 0
+
+Rock-shell gloves:
+Margin: 0                                ROI: 0
+Selling: 0                               Buying 0
+Quantity Sold: 0                         Quantity Bought: 0
+Buying Limit: N/A                        Expected Profit Per Hour: N/A
+% Min (Week): 100                        % Min (Month): 100
+% Max (Week): 0                          % Max (Month): 0
+Weekly Volatility: 0                     Monthly Volatility: 0
+Trend: 0
+
+Skeletal gloves:
+Margin: 0                                ROI: 0
+Selling: 0                               Buying 0
+Quantity Sold: 0                         Quantity Bought: 0
+Buying Limit: N/A                        Expected Profit Per Hour: N/A
+% Min (Week): 0.0                        % Min (Month): 0.0
+% Max (Week): 0.0                        % Max (Month): 0.0
+Weekly Volatility: 0.0                   Monthly Volatility: 0.0
+Trend: 0
+
+Dagannoth hide:
+Margin: 0                                ROI: 0
+Selling: 0                               Buying 0
+Quantity Sold: 0                         Quantity Bought: 0
+Buying Limit: N/A                        Expected Profit Per Hour: N/A
+% Min (Week): 100                        % Min (Month): 100
+% Max (Week): 0                          % Max (Month): 0
+Weekly Volatility: 0                     Monthly Volatility: 0
+Trend: 0
+
+Rock-shell chunk:
+Margin: 0                                ROI: 0
+Selling: 0                               Buying 0
+Quantity Sold: 0                         Quantity Bought: 0
+Buying Limit: N/A                        Expected Profit Per Hour: N/A
+% Min (Week): 100                        % Min (Month): 100
+% Max (Week): 0                          % Max (Month): 0
+Weekly Volatility: 0                     Monthly Volatility: 0
+Trend: 0
+
+Rock-shell shard:
+Margin: 0                                ROI: 0
+Selling: 0                               Buying 0
+Quantity Sold: 0                         Quantity Bought: 0
+Buying Limit: N/A                        Expected Profit Per Hour: N/A
+% Min (Week): 100                        % Min (Month): 100
+% Max (Week): 0                          % Max (Month): 0
+Weekly Volatility: 0                     Monthly Volatility: 0
+Trend: 0
+
+Skeletal visage:
+Margin: 0                                ROI: 0
+Selling: 0                               Buying 0
+Quantity Sold: 0                         Quantity Bought: 0
+Buying Limit: N/A                        Expected Profit Per Hour: N/A
+% Min (Week): 100                        % Min (Month): 100
+% Max (Week): 0                          % Max (Month): 0
+Weekly Volatility: 0                     Monthly Volatility: 0
+Trend: 0
+
+Studded chaps (t):
+Margin: 0                                ROI: 0
+Selling: 0                               Buying 0
+Quantity Sold: 0                         Quantity Bought: 0
+Buying Limit: N/A                        Expected Profit Per Hour: N/A
+% Min (Week): 100                        % Min (Month): 0.0
+% Max (Week): 0                          % Max (Month): 0.0
+Weekly Volatility: 0                     Monthly Volatility: 0.0
+Trend: 0
+
+Spider on shaft:
+Margin: 0                                ROI: 0
+Selling: 0                               Buying 0
+Quantity Sold: 0                         Quantity Bought: 0
+Buying Limit: N/A                        Expected Profit Per Hour: N/A
+% Min (Week): 100                        % Min (Month): 100
+% Max (Week): 0                          % Max (Month): 0
+Weekly Volatility: 0                     Monthly Volatility: 0
+Trend: 0
+
+Uncooked meat pie:
+Margin: 0                                ROI: 0
+Selling: 0                               Buying 0
+Quantity Sold: 0                         Quantity Bought: 0
+Buying Limit: N/A                        Expected Profit Per Hour: N/A
+% Min (Week): 100                        % Min (Month): 100
+% Max (Week): 0                          % Max (Month): 0
+Weekly Volatility: 0                     Monthly Volatility: 0
+Trend: 0
+
+Uncooked apple pie:
+Margin: 0                                ROI: 0
+Selling: 0                               Buying 0
+Quantity Sold: 0                         Quantity Bought: 0
+Buying Limit: N/A                        Expected Profit Per Hour: N/A
+% Min (Week): 100                        % Min (Month): 100
+% Max (Week): 0                          % Max (Month): 0
+Weekly Volatility: 0                     Monthly Volatility: 0
+Trend: 0
+
+Pie shell:
+Margin: 0                                ROI: 0.0
+Selling: 0                               Buying 400
+Quantity Sold: 0                         Quantity Bought: 3001
+Buying Limit: N/A                        Expected Profit Per Hour: N/A
+% Min (Week): 100                        % Min (Month): 100
+% Max (Week): 0                          % Max (Month): 0
+Weekly Volatility: 0                     Monthly Volatility: 0
+Trend: 0
+
+Pie dish:
+Margin: 0                                ROI: 0
+Selling: 120                             Buying 0
+Quantity Sold: 536                       Quantity Bought: 0
+Buying Limit: N/A                        Expected Profit Per Hour: N/A
+% Min (Week): 100                        % Min (Month): 0.0
+% Max (Week): 0                          % Max (Month): 0.0
+Weekly Volatility: 0                     Monthly Volatility: 0.0
+Trend: 0
+
+Spider on stick:
+Margin: 0                                ROI: 0
+Selling: 0                               Buying 0
+Quantity Sold: 0                         Quantity Bought: 0
+Buying Limit: N/A                        Expected Profit Per Hour: N/A
+% Min (Week): 100                        % Min (Month): 100
+% Max (Week): 0                          % Max (Month): 0
+Weekly Volatility: 0                     Monthly Volatility: 0
+Trend: 0
+
+Dwarven stout(m4):
+Margin: 0                                ROI: 0
+Selling: 300000                          Buying 0
+Quantity Sold: 2                         Quantity Bought: 0
+Buying Limit: N/A                        Expected Profit Per Hour: N/A
+% Min (Week): 100                        % Min (Month): 100
+% Max (Week): 0                          % Max (Month): 0
+Weekly Volatility: 0                     Monthly Volatility: 0
+Trend: 0
+
+Mithril seeds:
+Margin: 0                                ROI: 0
+Selling: 92                              Buying 0
+Quantity Sold: 1896                      Quantity Bought: 0
+Buying Limit: N/A                        Expected Profit Per Hour: N/A
+% Min (Week): 0.0                        % Min (Month): 0.0
+% Max (Week): 0.0                        % Max (Month): 0.0
+Weekly Volatility: 0.0                   Monthly Volatility: 8.624393618641035
+Trend: 0
+
+Ensouled imp head:
+Margin: 0                                ROI: 0.0
+Selling: 861                             Buying 861
+Quantity Sold: 7                         Quantity Bought: 2
+Buying Limit: N/A                        Expected Profit Per Hour: N/A
+% Min (Week): 1.0                        % Min (Month): 1.00937866354
+% Max (Week): 1.0                        % Max (Month): 1.0
+Weekly Volatility: 0.0                   Monthly Volatility: 2.0603150145508513
+Trend: 0
+
+Fremennik red shirt:
+Margin: 0                                ROI: 0.0
+Selling: 0                               Buying 902
+Quantity Sold: 0                         Quantity Bought: 1
+Buying Limit: N/A                        Expected Profit Per Hour: N/A
+% Min (Week): 100                        % Min (Month): 100
+% Max (Week): 0                          % Max (Month): 0
+Weekly Volatility: 0                     Monthly Volatility: 0
+Trend: 0
+
+Fremennik beige shirt:
+Margin: 0                                ROI: 0
+Selling: 0                               Buying 0
+Quantity Sold: 0                         Quantity Bought: 0
+Buying Limit: N/A                        Expected Profit Per Hour: N/A
+% Min (Week): 100                        % Min (Month): 100
+% Max (Week): 0                          % Max (Month): 0
+Weekly Volatility: 0                     Monthly Volatility: 0
+Trend: 0
+
+Jade amulet (u):
+Margin: 0                                ROI: 0
+Selling: 0                               Buying 0
+Quantity Sold: 0                         Quantity Bought: 0
+Buying Limit: N/A                        Expected Profit Per Hour: N/A
+% Min (Week): 100                        % Min (Month): 100
+% Max (Week): 0                          % Max (Month): 0
+Weekly Volatility: 0                     Monthly Volatility: 0
+Trend: 0
+
+Fremennik red cloak:
+Margin: 0                                ROI: 0.0
+Selling: 0                               Buying 4012
+Quantity Sold: 0                         Quantity Bought: 1
+Buying Limit: N/A                        Expected Profit Per Hour: N/A
+% Min (Week): 100                        % Min (Month): 100
+% Max (Week): 0                          % Max (Month): 0
+Weekly Volatility: 0                     Monthly Volatility: 0
+Trend: 0
+
+Fremennik blue shirt:
+Margin: 0                                ROI: 0
+Selling: 0                               Buying 0
+Quantity Sold: 0                         Quantity Bought: 0
+Buying Limit: N/A                        Expected Profit Per Hour: N/A
+% Min (Week): 100                        % Min (Month): 100
+% Max (Week): 0                          % Max (Month): 0
+Weekly Volatility: 0                     Monthly Volatility: 0
+Trend: 0
+
+Opal amulet:
+Margin: 0                                ROI: 0
+Selling: 0                               Buying 0
+Quantity Sold: 0                         Quantity Bought: 0
+Buying Limit: N/A                        Expected Profit Per Hour: N/A
+% Min (Week): 100                        % Min (Month): 100
+% Max (Week): 0                          % Max (Month): 0
+Weekly Volatility: 0                     Monthly Volatility: 0
+Trend: 0
+
+Fremennik grey cloak:
+Margin: 0                                ROI: 0
+Selling: 0                               Buying 0
+Quantity Sold: 0                         Quantity Bought: 0
+Buying Limit: N/A                        Expected Profit Per Hour: N/A
+% Min (Week): 100                        % Min (Month): 100
+% Max (Week): 0                          % Max (Month): 0
+Weekly Volatility: 0                     Monthly Volatility: 0
+Trend: 0
+
+Ourg bones:
+Margin: 0                                ROI: 0
+Selling: 28500                           Buying 0
+Quantity Sold: 12                        Quantity Bought: 0
+Buying Limit: N/A                        Expected Profit Per Hour: N/A
+% Min (Week): 100                        % Min (Month): 100
+% Max (Week): 0                          % Max (Month): 0
+Weekly Volatility: 0                     Monthly Volatility: 0
+Trend: 0
+
+Fish food:
+Margin: 0                                ROI: 0.0
+Selling: 0                               Buying 483
+Quantity Sold: 0                         Quantity Bought: 4
+Buying Limit: N/A                        Expected Profit Per Hour: N/A
+% Min (Week): 100                        % Min (Month): 1.11805555556
+% Max (Week): 0                          % Max (Month): 1.11805555556
+Weekly Volatility: 0                     Monthly Volatility: 0.0
+Trend: 0
+
+Poison:
+Margin: 0                                ROI: 0.0
+Selling: 0                               Buying 353
+Quantity Sold: 0                         Quantity Bought: 6
+Buying Limit: N/A                        Expected Profit Per Hour: N/A
+% Min (Week): 1.0505952381               % Min (Month): 1.0505952381
+% Max (Week): 1.0                        % Max (Month): 1.0
+Weekly Volatility: 7.184516960145427     Monthly Volatility: 7.184516960145427
+Trend: +17
+
+Light tuxedo cuffs:
+Margin: 0                                ROI: 0
+Selling: 0                               Buying 0
+Quantity Sold: 0                         Quantity Bought: 0
+Buying Limit: N/A                        Expected Profit Per Hour: N/A
+% Min (Week): 100                        % Min (Month): 100
+% Max (Week): 0                          % Max (Month): 0
+Weekly Volatility: 0                     Monthly Volatility: 0
+Trend: 0
+
+Light trousers:
+Margin: 0                                ROI: 0
+Selling: 0                               Buying 0
+Quantity Sold: 0                         Quantity Bought: 0
+Buying Limit: N/A                        Expected Profit Per Hour: N/A
+% Min (Week): 100                        % Min (Month): 100
+% Max (Week): 0                          % Max (Month): 0
+Weekly Volatility: 0                     Monthly Volatility: 0
+Trend: 0
+
+Villager armband:
+Margin: 0                                ROI: 0
+Selling: 400                             Buying 0
+Quantity Sold: 150                       Quantity Bought: 0
+Buying Limit: N/A                        Expected Profit Per Hour: N/A
+% Min (Week): 100                        % Min (Month): 100
+% Max (Week): 0                          % Max (Month): 0
+Weekly Volatility: 0                     Monthly Volatility: 0
+Trend: 0
+
+Team-49 cape:
+Margin: 0                                ROI: 0
+Selling: 90                              Buying 0
+Quantity Sold: 1                         Quantity Bought: 0
+Buying Limit: N/A                        Expected Profit Per Hour: N/A
+% Min (Week): 0.0                        % Min (Month): 0.0
+% Max (Week): 0.0                        % Max (Month): 0.0
+Weekly Volatility: 2.1999644883497553    Monthly Volatility: 26.27799216021495
+Trend: +1
+
+Mithril javelin heads:
+Margin: 0                                ROI: 0.0
+Selling: 0                               Buying 221
+Quantity Sold: 0                         Quantity Bought: 5
+Buying Limit: N/A                        Expected Profit Per Hour: N/A
+% Min (Week): 100                        % Min (Month): 100
+% Max (Week): 0                          % Max (Month): 0
+Weekly Volatility: 0                     Monthly Volatility: 0
+Trend: 0
+
+Steel javelin heads:
+Margin: 0                                ROI: 0
+Selling: 0                               Buying 0
+Quantity Sold: 0                         Quantity Bought: 0
+Buying Limit: N/A                        Expected Profit Per Hour: N/A
+% Min (Week): 100                        % Min (Month): 100
+% Max (Week): 0                          % Max (Month): 0
+Weekly Volatility: 0                     Monthly Volatility: 0
+Trend: 0
+
+Iron javelin heads:
+Margin: 0                                ROI: 0
+Selling: 0                               Buying 0
+Quantity Sold: 0                         Quantity Bought: 0
+Buying Limit: N/A                        Expected Profit Per Hour: N/A
+% Min (Week): 100                        % Min (Month): 100
+% Max (Week): 0                          % Max (Month): 0
+Weekly Volatility: 0                     Monthly Volatility: 0
+Trend: 0
+
+Bronze javelin heads:
+Margin: 0                                ROI: 0
+Selling: 0                               Buying 0
+Quantity Sold: 0                         Quantity Bought: 0
+Buying Limit: N/A                        Expected Profit Per Hour: N/A
+% Min (Week): 100                        % Min (Month): 100
+% Max (Week): 0                          % Max (Month): 0
+Weekly Volatility: 0                     Monthly Volatility: 0
+Trend: 0
+

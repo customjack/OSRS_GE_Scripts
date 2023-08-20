@@ -1,0 +1,74 @@
+TIMESTAMP: 22:43:38
+
+Magic:
+Input Quick Buy: 133868                 Input Slow Buy: 133662
+Output Quick Sell: 136434               Output Slow Sell: 136885
+Weekly Input Min: 1.01425828825         Weekly Input Max: 0.938413581027
+Weekly Output Min: 1.0546356848         Weekly Output Max: 0.928248741325
+Profit/item Quick: 2,566                Profit/item Slow: 3,223
+Profit/hr Quick: 4,362,200              Profit/hr Slow: 5,479,100
+
+
+Papaya:
+Input Quick Buy: 3121                   Input Slow Buy: 3041
+Output Quick Sell: 4000                 Output Slow Sell: 4000
+Weekly Input Min: 1.25341365462         Weekly Input Max: 0.708513053348
+Weekly Output Min: 1.0752688172         Weekly Output Max: 0.791608945181
+Profit/item Quick: 879                  Profit/item Slow: 959
+Profit/hr Quick: 1,494,300              Profit/hr Slow: 1,630,300
+
+
+Mahogany:
+Input Quick Buy: 2966                   Input Slow Buy: 0
+Output Quick Sell: 3748                 Output Slow Sell: 4334
+Weekly Input Min: unknown               Weekly Input Max: unknown
+Weekly Output Min: 1.24353019244        Weekly Output Max: 0.725653436592
+Profit/item Quick: 782                  Profit/item Slow: 4,334
+Profit/hr Quick: 1,329,400              Profit/hr Slow: 7,367,800
+
+
+Willow:
+Input Quick Buy: 3657                   Input Slow Buy: 0
+Output Quick Sell: 4053                 Output Slow Sell: 4250
+Weekly Input Min: unknown               Weekly Input Max: unknown
+Weekly Output Min: 1.01601721253        Weekly Output Max: 0.810295519542
+Profit/item Quick: 396                  Profit/item Slow: 4,250
+Profit/hr Quick: 673,200                Profit/hr Slow: 7,225,000
+
+
+Teak:
+Input Quick Buy: 27                     Input Slow Buy: 4
+Output Quick Sell: 100                  Output Slow Sell: 105
+Weekly Input Min: 1.35                  Weekly Input Max: 0.100746268657
+Weekly Output Min: 1.05                 Weekly Output Max: 0.233333333333
+Profit/item Quick: 73                   Profit/item Slow: 101
+Profit/hr Quick: 124,100                Profit/hr Slow: 171,700
+
+
+Apple:
+Input Quick Buy: 5                      Input Slow Buy: 3
+Output Quick Sell: 0                    Output Slow Sell: 0
+Weekly Input Min: 5.0                   Weekly Input Max: 0.454545454545
+Weekly Output Min: unknown              Weekly Output Max: unknown
+Profit/item Quick: -5                   Profit/item Slow: -3
+Profit/hr Quick: -8,500                 Profit/hr Slow: -5,100
+
+
+Calquat:
+Input Quick Buy: 81                     Input Slow Buy: 0
+Output Quick Sell: 0                    Output Slow Sell: 480
+Weekly Input Min: unknown               Weekly Input Max: unknown
+Weekly Output Min: 1.88235294118        Weekly Output Max: 0.64
+Profit/item Quick: -81                  Profit/item Slow: 480
+Profit/hr Quick: -137,700               Profit/hr Slow: 816,000
+
+
+Curry:
+Input Quick Buy: 86                     Input Slow Buy: 0
+Output Quick Sell: 0                    Output Slow Sell: 0
+Weekly Input Min: unknown               Weekly Input Max: unknown
+Weekly Output Min: unknown              Weekly Output Max: unknown
+Profit/item Quick: -86                  Profit/item Slow: 0
+Profit/hr Quick: -146,200               Profit/hr Slow: 0
+
+

@@ -1,0 +1,3 @@
+Date of Error: Mar 7
+Time of Error: 10:02:54
+API is currently not reporting null information

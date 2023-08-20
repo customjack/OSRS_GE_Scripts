@@ -1,0 +1,74 @@
+TIMESTAMP: 22:43:38
+
+Mahogany:
+Input Quick Buy: 2966                   Input Slow Buy: 0
+Output Quick Sell: 3748                 Output Slow Sell: 4334
+Weekly Input Min: unknown               Weekly Input Max: unknown
+Weekly Output Min: 1.24353019244        Weekly Output Max: 0.725653436592
+Profit/item Quick: 782                  Profit/item Slow: 4,334
+Profit/hr Quick: 1,329,400              Profit/hr Slow: 7,367,800
+
+
+Willow:
+Input Quick Buy: 3657                   Input Slow Buy: 0
+Output Quick Sell: 4053                 Output Slow Sell: 4250
+Weekly Input Min: unknown               Weekly Input Max: unknown
+Weekly Output Min: 1.01601721253        Weekly Output Max: 0.810295519542
+Profit/item Quick: 396                  Profit/item Slow: 4,250
+Profit/hr Quick: 673,200                Profit/hr Slow: 7,225,000
+
+
+Magic:
+Input Quick Buy: 133868                 Input Slow Buy: 133662
+Output Quick Sell: 136434               Output Slow Sell: 136885
+Weekly Input Min: 1.01425828825         Weekly Input Max: 0.938413581027
+Weekly Output Min: 1.0546356848         Weekly Output Max: 0.928248741325
+Profit/item Quick: 2,566                Profit/item Slow: 3,223
+Profit/hr Quick: 4,362,200              Profit/hr Slow: 5,479,100
+
+
+Palm:
+Input Quick Buy: 36058                  Input Slow Buy: 36057
+Output Quick Sell: 0                    Output Slow Sell: 37423
+Weekly Input Min: 1.02653380783         Weekly Input Max: 0.915175512069
+Weekly Output Min: 1.09312107492        Weekly Output Max: 0.917972870214
+Profit/item Quick: -36,058              Profit/item Slow: 1,366
+Profit/hr Quick: -61,298,600            Profit/hr Slow: 2,322,200
+
+
+Maple:
+Input Quick Buy: 34929                  Input Slow Buy: 34579
+Output Quick Sell: 34575                Output Slow Sell: 35883
+Weekly Input Min: 1.10419593818         Weekly Input Max: 0.904286199953
+Weekly Output Min: 1.0866063047         Weekly Output Max: 0.860503597122
+Profit/item Quick: -354                 Profit/item Slow: 1,304
+Profit/hr Quick: -601,800               Profit/hr Slow: 2,216,800
+
+
+Papaya:
+Input Quick Buy: 3121                   Input Slow Buy: 3041
+Output Quick Sell: 4000                 Output Slow Sell: 4000
+Weekly Input Min: 1.25341365462         Weekly Input Max: 0.708513053348
+Weekly Output Min: 1.0752688172         Weekly Output Max: 0.791608945181
+Profit/item Quick: 879                  Profit/item Slow: 959
+Profit/hr Quick: 1,494,300              Profit/hr Slow: 1,630,300
+
+
+Pineapple:
+Input Quick Buy: 388                    Input Slow Buy: 0
+Output Quick Sell: 0                    Output Slow Sell: 792
+Weekly Input Min: unknown               Weekly Input Max: unknown
+Weekly Output Min: 2.64                 Weekly Output Max: 0.795979899497
+Profit/item Quick: -388                 Profit/item Slow: 792
+Profit/hr Quick: -659,600               Profit/hr Slow: 1,346,400
+
+
+Yew:
+Input Quick Buy: 82060                  Input Slow Buy: 81866
+Output Quick Sell: 0                    Output Slow Sell: 82533
+Weekly Input Min: 1.14703456759         Weekly Input Max: 0.954186046512
+Weekly Output Min: 1.00792584632        Weekly Output Max: 0.948687885789
+Profit/item Quick: -82,060              Profit/item Slow: 667
+Profit/hr Quick: -139,502,000           Profit/hr Slow: 1,133,900
+
+
